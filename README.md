@@ -15,5 +15,3 @@ This README file serves as your guide to the world of fashion excellence on our 
 - **Get Inspired:** Whether you're an aspiring fashion designer or simply a fashion enthusiast with an eye for the extraordinary, our website offers a wealth of inspiration.
 
 Feel free to navigate the different sections of the website to discover the avant-garde aesthetics, unorthodox silhouettes, and raw elegance that define the legacy of these designers. If you have any questions feel free to scroll down to the footer of the homepage and leave an inquiry in the contact form provided there. Thank you for checking out the website!
-
-**Explore, Learn, and Get Inspired!**
