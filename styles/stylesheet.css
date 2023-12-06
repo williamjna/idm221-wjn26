@@ -1,0 +1,36 @@
+/* FONTS */
+
+@font-face {
+    font-family: 'Hedvig_Letters_Sans';
+    src: url('../fonts/HedvigLettersSans-Regular.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Hedvig_Letters_Sans';
+    src: url('../fonts/HedvigLettersSans-Regular.ttf') format('ttf');
+    font-weight: bold;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Hedvig_Letters_Serif';
+    src: url('../fonts/HedvigLettersSerif-Regular-VariableFont_opsz.ttf') format('ttf');
+    font-weight: lighter;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Hedvig_Letters_Serif';
+    src: url('../fonts/HedvigLettersSerif-Regular-VariableFont_opsz.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Hedvig_Letters_Serif';
+    src: url('../fonts/HedvigLettersSerif-Regular-VariableFont_opsz.ttf') format('ttf');
+    font-weight: normal;
+    font-style: italic;
+  }
