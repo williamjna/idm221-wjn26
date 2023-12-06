@@ -34,3 +34,81 @@
     font-weight: normal;
     font-style: italic;
   }
+
+ /* GENERAL */
+
+/* Header styles */
+header {
+    background-color: #121212;
+    color: #D4DCDA;
+    /* padding: 1em; */
+    width: 100%;
+}
+
+h1 {
+    color: #181615; /* Adjusted color based on the recent request */
+    font-family: 'Hedvig_Letters_Sans', Helvetica, sans-seif; /* Adjusted font family */
+    font-size: 36px;
+}
+
+h2 {
+    color: #544A47;
+}
+
+h3 {
+    color: #B3ADA0;
+}
+
+/* Navigation styles */
+header {
+    width: 100%;
+}
+
+nav {
+    background-color: #544A47;
+    color: #D4DCDA;
+    padding: 1em;
+}
+
+ul {
+    display: inline;
+}
+
+li {
+    list-style: none;
+    padding: 6px;
+    font-family: 'Hedvig_Letters_Sans', Helvetica, sans-seif; /* Adjusted font family */
+    font-size: 18px;
+}
+
+nav a {
+    color: #D4DCDA;
+}
+
+/* Main content styles */
+main {
+    background-color: #DDDCD6;
+    color: #121212;
+    padding: 20px;
+}
+
+/* Footer styles */
+footer {
+    background-color: #B3ADA0;
+    color: #121212;
+    padding: 1em;
+}
+
+img {
+    max-width: 96%;
+    max-height: 932px;
+    height: auto;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+
