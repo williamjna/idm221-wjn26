@@ -630,7 +630,7 @@ button.btn.striped-shadow:before {
 
 /* Rick-Owens F/W 12 */
 .img_box_r12a{
-  background-color: #DAE7DD;
+  background-color: #B0C4DE;
   margin: 1.2rem 1.3rem 0rem 1rem;
   padding: 0.2rem;
   border-radius: 1rem;
@@ -642,14 +642,14 @@ button.btn.striped-shadow:before {
 
 
 .img_box_r12b{
-  background-color:#DBC39A;
+  background-color:#ADD8E6;
   margin: 1.2rem 1.3rem 0rem 1rem;
   padding: 0.2rem;
   border-radius: 1rem;
   box-shadow: 0 15px 20px rgba(0,0,0,0.60), 0 10px 16px rgba(0,0,0,0.14);
 }
 .img_box_r12c{
-  background-color:#F7C9B6;
+  background-color:#D3D3D3;
   margin: 1.2rem 1.3rem 1rem 1rem;
   padding: 0.2rem;
   border-radius: 1rem;
@@ -660,7 +660,7 @@ button.btn.striped-shadow:before {
 
 /* Rick-Owens F/W 15 */
 .img_box_r15a{
-  background-color: #DAE7DD;
+  background-color: #E6E6FA;
   margin: 1.2rem 1.3rem 0rem 1rem;
   padding: 0.2rem;
   border-radius: 1rem;
@@ -668,7 +668,7 @@ button.btn.striped-shadow:before {
 }
 
 .img_box_r15b{
-  background-color:#DBC39A;
+  background-color:#D8BFD8;
   margin: 1.2rem 1.3rem 0rem 1rem;
   padding: 0.2rem;
   border-radius: 1rem;
@@ -676,7 +676,7 @@ button.btn.striped-shadow:before {
 }
 
 .img_box_r15c{
-  background-color:#F7C9B6;
+  background-color:#C0C0C0;
   margin: 1.2rem 1.3rem 1rem 1rem;
   padding: 0.2rem;
   border-radius: 1rem;
@@ -687,21 +687,21 @@ button.btn.striped-shadow:before {
 
 /* Rick Owens S/S 16 */
 .img_box_r16a{
-  background-color: #DAE7DD;
+  background-color: #98FB98;
   margin: 1.2rem 1.3rem 0rem 1rem;
   padding: 0.2rem;
   border-radius: 1rem;
   box-shadow: 5px 5px; 
 }
 .img_box_r16b{
-  background-color:#DBC39A;
+  background-color:#B0E0E6;
   margin: 1.2rem 1.3rem 0rem 1rem;
   padding: 0.2rem;
   border-radius: 1rem;
   box-shadow: 5px 5px; 
 }
 .img_box_r16c{
-  background-color:#F7C9B6;
+  background-color:#F5FFFA;
   margin: 1.2rem 1.3rem 1rem 1rem;
   padding: 0.2rem;
   border-radius: 1rem;
